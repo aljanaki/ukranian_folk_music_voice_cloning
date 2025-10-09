@@ -1,4 +1,5 @@
 .DS_Store
 .venv
-test_input/
 midi/
+__pycache__/
+meis_phoneme/
